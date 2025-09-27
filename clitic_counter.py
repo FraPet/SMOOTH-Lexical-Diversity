@@ -36,12 +36,14 @@ for file in input_files:
             tokens = [w.replace(".", "") for w in line.split() if "-" not in w and w != "xxx"]
             all_words.extend(tokens)
 
-    # NLP analysis
-    doc = nlp(" ".join(all_words))
-    clitics = []
-    for tok in doc:
-        if tok.pos_ == "PRON" and tok.morph.get("Clitic") == ["Yes"]:
-            clitics.append(tok.text)
+            # NLP analysis
+            doc = nlp(line)
+            clitics = []
+            for tok in doc:
+                # print(f"Token: {tok.text} | POS: {tok.pos_} | Morph: {tok.morph}")
+                if tok.pos_ == "PRON" and tok.morph.get("Clitic") == ["Yes"]:
+                    print(f"\t[INFO] Found clitic:\t{tok.text} | [{tok.morph}] in file {file}")
+                    clitics.append(tok.text)
 
     results.append({
         "id": file.split("_")[0],
