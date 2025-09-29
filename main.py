@@ -42,23 +42,30 @@ for file in input_files:
     print(f"Processing file: {file}")
     file_path = os.path.join(dir_path, file)
 
+    all_words = []
     content_words = []
     with open(file_path, "r", encoding="utf-8") as f:
         for line in f:
             line = line.strip()
             if not line or line.startswith("@"):
                 continue
-            if line.startswith("*CHI:"):
+            if line.startswith("*PAR:"):
                 line = line.split("\t")[-1]
             # Clean
             line = re.sub(r"@\d+(\.\d+)?\.", "", line)
-            words = [w for w in line.split() if "/" in w and "-" not in w and w != "xxx"]
+            words_no_excl = [w for w in line.split() if "/" in w and w != "xxx"]
+            words = [w for w in line.split() if "/" in w and w != "xxx" and not w.endswith("-")]
 
             for word in words:
-                word_text, word_labels = word.split("/")[0], word.split("/")[1].split("-")
-                if any(label in CONTENT_LABELS for label in word_labels):
-                    print(f"\tAdded content: {word_text.lower()}/{word_labels}")
+                word_text, labels_raw = word.split("/", 1)
+                all_words.append(word_text.lower())
+
+            for word in words:
+                word_text, labels_raw = word.split("/", 1)
+                word_labels = labels_raw.split("-")
+                if any(lbl in CONTENT_LABELS for lbl in word_labels):
                     content_words.append(word_text.lower())
+
 
     # Lemmatize only content words
     doc = nlp(" ".join(content_words))
@@ -68,30 +75,30 @@ for file in input_files:
     ndw = len(set(lemmatized_content))
     text = " ".join(lemmatized_content)
     perc5_length = max(1, len(lemmatized_content) * 5 // 100)
-
+    win_lenght = 10 # change this to variate window lenght of MATTR index
     hdd = ld.hdd(text)
     mtld = ld.mtld(text)
-    mattr = ld.mattr(text, window_length=15)
-    mattr5perc = ld.mattr(text, window_length=perc5_length)
+    mattr = ld.mattr(text, window_length=win_lenght)
     ttr = ld.ttr(text)
     wim_result = calculate_wim(lemmatized_content)
 
     results.append({
-        "id": file.split("_")[0],
-        "tokens": len(lemmatized_content),
-        "NDW": ndw,
+        "id": file,
+        "tokens": len(all_words),
+        "Content Words": len(lemmatized_content),
+        "Number of Different Content Words (NDW)": ndw,
         "ttr": ttr,
-        "mattr": mattr,
-        "mattr5perc": mattr5perc,
+        f"mattr({win_lenght})": mattr,
         "hdd": hdd,
         "mtld": mtld,
         "wim": wim_result
     })
+    print("\t", results[-1])
 
 # Save results
 out_file = os.path.join(output_path, "lexical_diversity_results.csv")
 with open(out_file, "w", newline="", encoding="utf-8") as f_out:
-    writer = csv.DictWriter(f_out, fieldnames=["id", "tokens", "NDW", "ttr", "mattr", "mattr5perc", "hdd", "mtld", "wim"])
+    writer = csv.DictWriter(f_out, fieldnames=["id", "tokens", "Content Words", "Number of Different Content Words (NDW)", "ttr", f"mattr({win_lenght})", "mattr5perc", "hdd", "mtld", "wim"])
     writer.writeheader()
     writer.writerows(results)
 
