@@ -1,6 +1,5 @@
 @story title: QUARREL
 @time duration: 10:25” – 11:12” = 47”
-
 *PAR: some/FILLER cartoons/FILLER that/FILLER are/AUX basically/FILLER set/ADJ in/ADP a/DET house/NOUN *
 *PAR: and/CCONJ there/ADV are/VERB-OMCONT-NOREFOM-APOS
 *PAR: there/RIPPAR is/VERB a/DET couple/NOUN who/PRON quarrels/VERB indeed/FILLER *

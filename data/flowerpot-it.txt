@@ -1,6 +1,5 @@
 @VASO
 @durata: 02:21” – 02:48” = 27”
-
 *PAR:	un/ART uomo/NOME mentre/CONG_ALL portava/VERBO a/PREP passeggio/NOME il/ART cane/NOME subisce/VERBO un/ART incidente/NOME ne/PREP +l/ART quale/PRON gli/PRON cade/VERBO un/ART vaso/NOME in/PREP testa/NOME *
 *PAR:	e/CONG_E arrabbiato/AGG sale/VERBO ne/PREP +lla/ART casa/NOME de/PREP +lla/ART proprietaria/NOME de/PREP +l/ART vaso/NOME ne/PREP +ll'/ART intento/NOME di/CONG_ALL di/RIPPAR-OMCONT-NOREFOM-APOS *
 *PAR:	di/RIPPAR far/VERBO +si/PRON valere/VERBO 
