@@ -1,0 +1,14 @@
+@titolo:	NIDO
+@durata:	01:33” – 02:10” = 37”
+*PAR:	lei/NOREFES indica/VERBO a/PREP lui/NOREFES l'/ART uccellino/NOME che/PRON sta/VERBO su/PREP +l/ART ramo/NOREFES con/PREP il/ART nido/NOME con/PREP co/RIPPAR i/ART pulcini/NOME *
+*PAR:	lui/PRON sale/VERBO per/CONG_ALL prendere/VERBO il/ART nido/NOME *
+*PAR:	l'/ART uccellino/NOME-APOS
+*PAR:	l'/RIPPAR uccello/RIPPAR si/PRON spaventa/VERBO *
+*PAR:	lui/PRON cade/VERBO perché/CONG_ALL si/PRON rompe/VERBO il/ART ramo/NOME *
+*PAR:	così/FILLER ha/FILLER imparato/FILLER a/FILLER dar/FILLER fastidio/FILLER a/FILLER l/FILLER nido/FILLER-ENUNCFIL *
+*PAR:	resta/VERBO per/PREP terra/NOME *
+*PAR:	si/PRON è/AUX fatto/VERBO male/AVV *
+*PAR:	chiamano/VERBO-OMCONT-NOREFOM l'/ART ambulanza/NOME
+*PAR:	e/CONG_E loro/NOREFES-APOS
+*PAR:	lui/PRON sta/VERBO in/PREP ospedale/NOME con/PREP la/ART gamba/NOME in/PREP in/RIPPAR tiro/NOME *
+*PAR:	e/CONG_E l'/ART uccello/NOME si/PRON guarda/VERBO i/ART piccolini/NOME che/PRON stanno/VERBO per/PREP terra/NOME e/CONG_E si/PRON sono/AUX fatti/VERBO male/AVV pure/CONG_ALL loro/PRON *

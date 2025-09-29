@@ -1,0 +1,6 @@
+@titolo:	PICNIC
+@durata:	00:36” – 00:54” = 18”
+*PAR:	mentre/CONG_ALL due/NUM signori/NOME stanno/AUX facendo/VERBO un/ART bellissimo/AGG picnic/NOME un/ART signore/NOME gioca/VERBO su/PREP +l/ART bordo/NOME de/PREP +l/ART lago/NOME con/PREP il/ART suo/ANQ aquilone/NOME mentre/CONG_ALL il/ART suo/ANQ cane/NOME gli/PRON gira/VERBO intorno/AVV *
+*PAR:	e/CONG_E ci/AVV sono/VERBO delle/ANQ persone/NOME-NOREFOM ne/PREP +l/ART fattempo/PARFON che/PRON stanno/AUX pescando/VERBO *
+*PAR:	e/CONG_E un/ART-OMCONT-NOREFOM-APOS
+*PAR:	dei/ANQ signori/NOME vanno/VERBO in/PREP barca/NOME a/PREP vela/NOME *

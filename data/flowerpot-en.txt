@@ -1,0 +1,9 @@
+@story title: FLOWERPOT
+@time duration: 02:21” – 02:48” = 27”
+
+*PAR: a/DET man/NOUN while/SCONJ walking/VERB the/DET dog/NOUN suffers/VERB an/DET accident/NOUN when/ADP a/DET flowerpot/NOUN falls/VERB on/ADP his/PRON head/NOUN *
+*PAR: and/CCONJ angry/ADJ he/PRON goes/VERB up/ADP to/ADP the/DET house/NOUN of/ADP the/DET owner/NOUN of/ADP the/DET flowerpot/NOUN with/ADP the/DET intent/NOUN to/SCONJ-OMCONT-NOREFOM-APOS *
+*PAR: to/RIPPAR assert/VERB himself/PRON *
+*PAR: but/SCONJ he/PRON notices/VERB a/DET beautiful/ADJ person/NOUN both/SCONJ outside/ADV and/SCONJ inside/ADV *
+*PAR: and/CCONJ he/PRON remains/VERB fascinated/VERB *
+*PAR: both/SCONJ he/PRON and/SCONJ his/ANQ dog/NOUN *
