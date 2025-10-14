@@ -1,6 +1,0 @@
-@story title: PICNIC
-@time duration: 00:36” – 00:54” = 18”
-*PAR: while/SCONJ two/NUM people/NOUN are/AUX having/VERB a/DET wonderful/ADJ picnic/NOUN a/DET man/NOUN plays/VERB on/ADP the/DET shore/NOUN of/ADP the/DET lake/NOUN with/ADP his/ANQ kite/NOUN while/SCONJ his/ANQ dog/NOUN runs/VERB around/ADV him/PRON *
-*PAR: and/CCONJ there/ADV are/VERB some/ANQ people/NOUN-NOREFOM munwhile/PARFON who/PRON are/AUX fishing/VERB *
-*PAR: and/CCONJ a/DET-OMCONT-NOREFOM-APOS
-*PAR: some/ANQ people/NOUN go/VERB sailing/VERB on/ADP a/DET sailboat/NOUN *

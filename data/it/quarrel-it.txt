@@ -1,0 +1,24 @@
+@LITIGIO
+@durata: 10:25” – 11:12” = 47”
+*PAR:	ci/AVV è/VERBO-OMCONT-NOREFOM-APOS
+*PAR:	c/RIPPAR è/RIPPAR una/ART coppia/NOME che/PRON litiga/VERBO appunto/FILLER *
+*PAR:	lui/NOREFES sta/AUX leggendo/VERBO il/ART giornale/NOME mentre/CONG_ALL lei/PRON gli/PRON urla/VERBO addosso/AVV *
+*PAR:	e/CONG_E lui/PRON continua/VERBO a/CONG_ALL leggere/VERBO il/ART giornale/NOME *
+*PAR:	lei/PRON decide/VERBO di/CONG_ALL prendere/VERBO e/CONG_E and-/FALSAPART-APOS *
+*PAR:	e/FILLER andar/VERBO se/PRON ne/PRON perché/CONG_ALL è/AUX stufa/AGG *
+*PAR:	e/CONG_E lui/PRON appunto/FILLER è/AUX-OMCONT-NOREFOM-APOS
+*PAR:	dopo/AVV che/CONG_ALL lei/PRON se/PRON n'/PRON è/AUX andata/VERBO comincia/VERBO a/CONG_ALL riflettere/VERBO su/PREP quello/PRON che/PRON ha/AUX fatto/VERBO *
+*PAR:	e/CONG_E la-/FALSAPART-APOS
+*PAR:	lascia/VERBO il/ART giornale/NOME *
+*PAR:	e/CONG_E comi-/FALSAPART-APOS
+*PAR:	si/PRON mette/VERBO la/ART mano/NOME su/PREP +l/ART capo/NOME con/PREP fare/NOME dispiaciuto/AGG per/PREP quello/PRON che/PRON è/AUX successo/VERBO *
+*PAR:	lei/PRON però/CONG_ALL-APOS
+*PAR:	lui/PRON si/PRON gira/VERBO perché/CONG_ALL sente/VERBO un/ART rumore/NOME *
+*PAR:	ed/CONG_E era/AUX lei/PRON che/PRON era/AUX tornata/VERBO indietro/AVV perché/CONG_ALL appunto/FILLER era/AUX dispiaciuta/AGG *
+*PAR:	e/CONG_E insomma/FILLER i/ART due/NUM si/PRON parlano/VERBO *
+*PAR:	e/CONG_E trovano/VERBO diciamo/FILLER-OMCONT-NOREFOM-APOS
+*PAR:	ah/FILLER ok/FILLER-ENUNCFIL
+*PAR:	trovano/RIPPAR un/ART accordo/NOME *
+*PAR:	però/FILLER cosa/FILLER succede/FILLER-ENUNCFIL *
+*PAR:	che/FILLER lei/PRON gli/PRON svela/VERBO che/CONG_ALL ha/AUX fatto/VERBO un/ART incidente/NOME *
+*PAR:	ed/CONG_E è/AUX tornata/VERBO indietro/AVV per/PREP quello/PRON *

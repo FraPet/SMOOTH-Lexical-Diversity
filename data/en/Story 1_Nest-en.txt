@@ -1,0 +1,5 @@
+@story title:	NEST STORY
+@duration:	00:12 – 00:32 = 20”
+*PAR: [they] are/VERB-OMCONT-NOREFOM-APOS
+*PAR: [they] [are] see[ing]/VERB-OMCONT-NOREFOM the/ART bird/NOUN on/PREP the/ART branch/NOUN
+*PAR: the/ART boy/NOREFEX goes/VERB up/NOREFEX maybe/FILLER to/CONJ_ALL grab/VERB the/ART bird/NOUN *

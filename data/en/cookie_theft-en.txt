@@ -1,0 +1,4 @@
+@title:	COOKIE
+@duration:	00:40–01:03 = 23”
+*PAR:	a/ART mother/NOUN washes/VERB the/ART dishes/NOUN in/PREP the/ART kitchen/NOUN making/VERB the/ART whole/N_QADJ house/NOUN flood/VERB with/PREP water/NOUN because/SCONJ [she] is/AUX looking/VERB out/ADV of/PREP the/ART window/NOUN and/CCONJ is/AUX distracted/VERB by/PREP what/PRON [she] sees/VERB *
+*PAR:	the/ART children/NOUN take/VERB advantage/NOUN of/PREP it/PRON to/SCONJ steal/VERB some/N_QADJ cookies/NOUN from/PREP the/ART cupboard/NOUN putting/VERB themselves/PRON at/PREP risk/NOUN since/SCONJ the/ART eldest/ADJ son/NOUN is/AUX about/SCONJ to/SCONJ fall/VERB on/PREP the/ART floor/NOUN *

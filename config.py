@@ -8,7 +8,7 @@ TXT_PATH = "data"
 OUTPUT_PATH = "output"
 
 # Language setting: "it" for Italian, "en" for English
-LANGUAGE = "it"
+LANGUAGE = "en"
 
 # Map language codes to spaCy models
 SPACY_MODELS = {

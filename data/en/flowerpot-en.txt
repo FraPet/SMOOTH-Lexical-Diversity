@@ -1,0 +1,8 @@
+@title:	FLOWERPOT
+@duration:	02:21–02:48 = 27”
+*PAR:	a/ART man/NOUN while/SCONJ walking/VERB the/ART dog/NOUN suffers/VERB an/ART accident/NOUN in/PREP which/PRON a/ART flowerpot/NOUN falls/VERB on/PREP his/ADJ head/NOUN *
+*PAR:	and/CCONJ angry/ADJ [he] goes/VERB into/PREP the/ART house/NOUN of/PREP the/ART owner/NOUN of/PREP the/ART flowerpot/NOUN with/PREP the/ART intention/NOUN of/SCONJ of/REPWORD-CONTOM-NOREFOM-APOS *
+*PAR:	of/REPWORD make/VERB himself/PRON be/AUX heard/VERB *
+*PAR:	but/SCONJ  [he] notices/VERB a/ART beautiful/ADJ person/NOUN both/SCONJ outside/ADV and/CCONJ inside/ADV *
+*PAR:	and/CCONJ and/REPWORD he/PRON remains/VERB charmed/VERB *
+*PAR:	both/SCONJ he/PRON and/CCONJ his/N_QADJ dog/NOUN *

@@ -37,8 +37,8 @@ It is recommended to use a virtual environment (venv) to keep dependencies isola
    pip install -r requirements.txt  
 
 4. Download the spaCy models:  
-   python -m spacy download it_core_news_lg  
-   python -m spacy download en_core_web_lg  
+python -m spacy download it_core_news_lg  
+python -m spacy download en_core_web_lg  
 
 ---
 

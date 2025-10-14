@@ -1,0 +1,5 @@
+@titolo:	NIDO
+@durata:	00:12 – 00:32 = 20”
+*PAR:	sono/VERBO-OMCONT-NOREFOM-APOS
+*PAR:	guardano/VERBO-OMCONT-NOREFOM l'/ART uccellino/NOME su/PREP +l/ART ramo/NOME
+*PAR:	il/ART ragazzo/NOREFES va/VERBO su/NOREFES forse/FILLER per/CONG_ALL prendere/VERBO l'/ART uccellino/NOME *

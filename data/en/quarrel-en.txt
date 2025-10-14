@@ -1,0 +1,24 @@
+@title:	QUARREL
+@duration:	10:25–11:12 = 47”
+*PAR:	there/ADV is/VERB-CONTOM-NOREFOM-APOS
+*PAR:	there/REPWORD is/REPWORD in/FILLER fact/FILLER a/ART couple/NOUN who/PRON is/AUX arguing/VERB *
+*PAR:	he/PRON is/AUX reading/VERB the/ART newspaper/NOUN while/SCONJ she/PRON shouts/VERB at/PREP him/PRON *
+*PAR:	and/CCONJ he/PRON keeps/VERB reading/VERB the/ART newspaper/NOUN *
+*PAR:	she/PRON decides/VERB to/SCONJ get/VERB up/VERB and/CCONJ g-/FALSTART-APOS *
+*PAR:	and/FILLER go/VERB away/ADV because/SCONJ [she] is/AUX tired/ADJ *
+*PAR:	and/CCONJ he/PRON actually/FILLER is/AUX-CONTOM-NOREFOM-APOS
+*PAR:	after/ADV she/PRON has/AUX left/VERB he/PRON starts/VERB to/SCONJ think/VERB about/PREP what/PRON he/PRON has/AUX done/VERB *
+*PAR:	and/CCONJ [he] lea-/FALSTART-APOS
+*PAR:	[he] leaves/VERB the/ART newspaper/NOUN *
+*PAR:	and/CCONJ [he] sta-/FALSTART-APOS
+*PAR:	puts/VERB his/N_QADJ hand/NOUN on/PREP his/N_QADJ head/NOUN with/PREP a/ART regretful/ADJ look/NOUN for/PREP what/PRON has/AUX happened/VERB *
+*PAR:	but/SCONJ she/PRON-APOS
+*PAR:	he/PRON turns/VERB around/ADV because/SCONJ [he] hears/VERB a/ART noise/NOUN *
+*PAR:	and/CCONJ it/PRON was/AUX her/PRON who/PRON had/AUX come/VERB back/VERB because/SCONJ she/PRON was/AUX sorry/ADJ *
+*PAR:	and/CCONJ well/FILLER the/ART two/NUM talk/VERB *
+*PAR:	and/CCONJ find/VERB let/FILLER ’s/FILLER say/FILLER-CONTOM-NOREFOM-APOS *
+*PAR:	ah/FILLER ok/FILLER-FILLUTTER
+*PAR:	[they] find/REPWORD an/ART agreement/NOUN *
+*PAR:	but/FILLER what/FILLER happens/FILLER-FILLUTTER *
+*PAR:	that/FILLER she/PRON tells/VERB him/PRON that/SCONJ she/PRON had/VERB an/ART accident/NOUN *
+*PAR:	and/CCONJ has/AUX come/VERB back/VERB because/SCONJ of/PREP that/PRON *

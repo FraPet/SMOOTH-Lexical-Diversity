@@ -1,0 +1,14 @@
+@title:	NEST STORY
+@duration:	01:33” – 02:10” = 37”
+*PAR:	she/NOREFEX points/VERB to/PREP him/NOREFEX the/ART little/ADJ bird/NOUN that/PRON is/VERB on/PREP the/ART branch/NOREFEX with/PREP the/ART nest/NOUN with/PREP with/REPWORD the/ART chicks/NOUN *
+*PAR:	he/PRON climbs/VERB to/SCONJ take/VERB the/ART nest/NOUN *
+*PAR:	the/ART bird/NOUN-APOS
+*PAR:	the/REPWORD bird/REPWORD gets/VERB scared/VERB *
+*PAR:	the/ART man/NOUN falls/VERB because/SCONJ the/ART branch/NOUN breaks/VERB *
+*PAR:	so/FILLER [he] has/FILLER learned/FILLER not/FILLER to/FILLER disturb/FILLER the/FILLER nest/FILLER-FILLUTTER *
+*PAR:	[he] stays/VERB on/PREP [the] ground/NOUN *
+*PAR:	[he] has/AUX been/AUX hurt/ADV *
+*PAR:	[they] call/VERB-CONTOM-NOREFOM the/ART ambulance/NOUN *
+*PAR:	and/CCONJ they/NOREFEX-APOS
+*PAR:	he/PRON is/VERB in/PREP hospital/NOUN with/PREP the/ART leg/NOUN in/PREP in/REPWORD traction/NOUN *
+*PAR:	and/CCONJ the/ART bird/NOUN watches/VERB the/ART chicks/NOUN that/PRON are/VERB on/PREP the/ART ground/NOUN and/CCONJ have/AUX been/AUX hurt/ADV *

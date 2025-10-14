@@ -5,4 +5,4 @@
 *PAR:	di/RIPPAR far/VERBO +si/PRON valere/VERBO 
 *PAR:	ma/CONG_ALL nota/VERBO una/ART bellissima/AGG persona/NOME sia/CONG_ALL fuori/AVV che/CONG_ALL dentro/AVV *
 *PAR:	e/CONG_E e/RIPPAR ne/PRON rimane/VERBO conquistato/VERBO *
-*PAR:	sia/CONG_ALL lui/PRON che/PRON il/ART suo/ANQ cane/NOME *
+*PAR:	sia/CONG_ALL lui/PRON che/CONG_ALL il/ART suo/ANQ cane/NOME *

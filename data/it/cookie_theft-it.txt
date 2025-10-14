@@ -1,0 +1,4 @@
+@titolo:	COOKIE
+@durata:	00:40” – 01:03” = 23”
+*PAR:	una/ART madre/NOME lava/VERBO i/ART piatti/NOME in/PREP cucina/NOME facendo/VERBO inondare/VERBO tutta/ANQ la/ART casa/NOME di/PREP acqua/NOME perché/CONG_ALL sta/AUX guardando/VERBO fuori/AVV da/PREP +lla/ART finestra/NOME ed/CONG_E è/AUX distratta/VERBO da/PREP quello/PRON che/PRON vede/VERBO *
+*PAR:	i/ART figli/NOME ne/PRON approfittano/VERBO per/CONG_ALL rubare/VERBO dei/ANQ biscotti/NOME da/PREP +lla/ART credenza/NOME mettendo/VERBO si/PRON a/PREP rischio/NOME dato/VERBO che/CONG_ALL sta/VERBO per/CONG_ALL cadere/VERBO per/PREP terra/NOME il/ART figlio/NOME maggiore/AGG *

@@ -1,0 +1,7 @@
+@title:	PICNIC
+@duration:	00:36–00:54 = 18”
+*PAR:	while/SCONJ two/NUM men/NOUN are/AUX having/VERB a/ART beautiful/ADJ picnic/NOUN a/ART man/NOUN plays/VERB on/PREP the/ART edge/NOUN of/PREP the/ART lake/NOUN with/PREP his/N_QADJ kite/NOUN *
+*PAR:	his/N_QADJ dog/NOUN runs/VERB around/ADV him/PRON *
+*PAR:	and/CCONJ there/ADV are/VERB some/N_QADJ people/NOREFES in/PREP the/ART mitime/PHONPAR who/PRON are/AUX fishing/VERB *
+*PAR:	and/CCONJ a/ART-CONTOM-NOREFOM-APOS
+*PAR:	some/N_QADJ people/NOUN go/VERB on/PREP a/ART sailboat/NOUN *

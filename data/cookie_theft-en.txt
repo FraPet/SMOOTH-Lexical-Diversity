@@ -1,4 +1,0 @@
-@story title: COOKIE
-@time duration: 00:40” – 01:03” = 23”
-*PAR: a/DET mother/NOUN washes/VERB the/DET dishes/NOUN in/ADP the/DET kitchen/NOUN flooding/VERB the/DET whole/ANQ house/NOUN with/ADP water/NOUN because/SCONJ she/AUX is/VERB looking/VERB out/ADV of/ADP the/DET window/NOUN and/CCONJ is/AUX distracted/VERB by/ADP what/ANQ she/PRON sees/VERB *
-*PAR: the/DET children/NOREFEX take/VERB advantage/VERB to/SCONJ steal/VERB some/ANQ cookies/NOUN from/ADP the/DET cupboard/NOUN putting/VERB themselves/PRON at/ADP risk/NOUN since/VERB the/DET older/ADJ son/NOUN who/PRON has/AUX climbed/VERB up/ADP-NOREFOM to/SCONJ get/VERB the/DET cookies/NOUN is/VERB about/SCONJ to/SCONJ fall/VERB on/ADP the/DET floor/NOUN *
