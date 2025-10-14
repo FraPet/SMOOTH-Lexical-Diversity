@@ -1,3 +1,17 @@
+# =============================================================================
+# Author: Francesco Petriglia
+# Please cite: "Assessing lexical diversity and informativeness across the adult lifespan: A comprehensive investigation"
+# =============================================================================
+"""
+This script analyzes only the subfolders corresponding to the language specified
+in the configuration file (`config.LANGUAGE`). 
+
+Each file is automatically processed according to the corresponding spaCy model
+declared in `config.SPACY_MODELS`. Results are then stored in the directory
+defined by `config.OUTPUT_PATH`.
+"""
+
+
 import os
 import csv
 import re
@@ -30,7 +44,7 @@ dir_path = os.path.join(config.TXT_PATH, config.LANGUAGE)
 output_path = config.OUTPUT_PATH
 os.makedirs(output_path, exist_ok=True)
 
-# Carica modello spaCy
+# Load spacy model
 if config.LANGUAGE not in config.SPACY_MODELS:
     raise ValueError(f"Unsupported language: {config.LANGUAGE}. Use 'it' or 'en'.")
 nlp = spacy.load(config.SPACY_MODELS[config.LANGUAGE])

@@ -8,10 +8,13 @@ TXT_PATH = "data"
 OUTPUT_PATH = "output"
 
 # Language setting: "it" for Italian, "en" for English
-LANGUAGE = "en"
+LANGUAGE = "it"
 
 # Map language codes to spaCy models
 SPACY_MODELS = {
     "it": "it_core_news_lg",
     "en": "en_core_web_lg"
 }
+
+# specify model for "main.py" script
+SPACY_MODEL = "it_core_news_lg"
