@@ -52,10 +52,12 @@ python -m spacy download en_core_web_lg
 2. Edit config.py to set:  
    - TXT_PATH (input folder)  
    - OUTPUT_PATH (output folder)  
-   - LANGUAGE = "it" for Italian or LANGUAGE = "en" for English  
+   - LANGUAGE = "it" for Italian or LANGUAGE = "en" for English # this variable set the language for the test script. The test script analyze only the subfolders corresponding to the language specified in this variable. 
 
-3. Run the LD analysis:  
-   python main.py  
+3. Run test or main analysis:  
+   - python test.py # analyze only specific-language folder
+   - python main.py  # analyze all data content according to the corresponding spaCy model declared in `config.SPACY_MODELS`. Results are then stored in the directory
+defined by `config.OUTPUT_PATH`.
    → Results will be saved in output/lexical_diversity_results.csv  
 
 ---
