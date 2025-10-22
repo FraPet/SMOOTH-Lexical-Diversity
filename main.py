@@ -21,15 +21,23 @@ from pprint import pprint
 if config.LANGUAGE == "it":
     CONTENT_LABELS = ["NOME", "VERBO", "AGG", "AVV"]
     ERROR_LABELS = [
-        "PARFON", "FILLER", "RIPPAR", "PARSEM", "PARVERB", "PARAGLEG", "PARAGFUNT",
-        "INDEF", "NOREFOM", "NOREFES", "TANG_W", "FSE_W", "ERRFUNTCOES", "NEOL"
+    "PARFON", "NEOL", "FALSAPART"
+    "FILLER", "RIPPAR", "INDEF"
+    "PARSEM", "PARVERB", 
+    "PARAGLEG", "PARAGFUNT",
+    "ERRFUNTCOES", "NOREFES", 
+    "TANG_W", "FSE_W"
+
     ]
 else:  # English
     CONTENT_LABELS = ["NOUN", "VERB", "ADJ", "ADV"]
     ERROR_LABELS = [
-        "FALSTART", "PHONPAR", "NEOL", "SEMPAR", "VERBPAR", "INDEF", "NOREFEX",
-        "NOREFOM", "FILLER", "REPWORD", "BOPARAG", "FUNCTPARAG",
-        "CONTOM", "FUNCTOM", "INCWORDUSE", "TANGWORD"
+        "PHONPAR", "NEOL", "FALSTART",
+        "FILLER", "REPWORD", "INDEF", 
+        "SEMPAR", "VERBPAR", 
+        "BOPARAG", "FUNCTPARAG",
+        "COFUNCTERR", "NOREFEX", # cohesive function words errors
+        "TANGWORD", "INCWORDUSE"
     ]
 
 
