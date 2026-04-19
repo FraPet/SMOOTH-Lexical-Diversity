@@ -1,7 +1,6 @@
 # SMOOTH-Lexical-Diversity
 
-This repository provides the Python code used to analyze **narrative transcripts** for research on language development in children with cochlear implants.  
-It includes automated computation of **lexical diversity (LD) indices** and a dedicated script for **clitic detection** as used in this paper ().  
+This repository provides the Python code used to analyze **narrative transcripts** for research on language development in children with cochlear implants.  It includes automated computation of **lexical diversity (LD) indices** and a dedicated script for **clitic detection** as used in this paper (Multilevel Narrative Assessment in Children with Early Cochlear Implants Compared to Typically Hearing Peers. Francesco Petriglia, Andrea Marini, Agata Marchetti Guerrini, Diego Di Lisi, Patrizia Consolino, Francesca Marina Bosco).  
 The pipeline works with both **Italian** and **English** data, depending on the spaCy model selected in the configuration.
 
 ---
