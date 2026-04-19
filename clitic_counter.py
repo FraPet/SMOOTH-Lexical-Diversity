@@ -25,6 +25,7 @@ for file in input_files:
     file_path = os.path.join(dir_path, file)
 
     all_words = []
+    clitics = []
     with open(file_path, "r", encoding="utf-8") as f:
         for line in f:
             line = line.strip()
@@ -35,22 +36,20 @@ for file in input_files:
             line = re.sub(r"@\d+(\.\d+)?\.", "", line)
             tokens = [w.replace(".", "") for w in line.split() if "-" not in w and w != "xxx"]
             all_words.extend(tokens)
-
             # NLP analysis
             doc = nlp(line)
-            clitics = []
             for tok in doc:
                 # print(f"Token: {tok.text} | POS: {tok.pos_} | Morph: {tok.morph}")
-                if tok.pos_ == "PRON" and tok.morph.get("Clitic") == ["Yes"]:
+                if tok.pos_ == "PRON" and tok.morph.get("Clitic") == ["Yes"] and tok.text.lower() not in ["c'", "ci"]:
                     print(f"\t[INFO] Found clitic:\t{tok.text} | [{tok.morph}] in file {file}")
                     clitics.append(tok.text)
 
-    results.append({
-        "id": file.split("_")[0],
-        "total_tokens": len(all_words),
-        "clitic_count": len(clitics),
-        "clitics_found": ", ".join(clitics)
-    })
+        results.append({
+            "id": file.split("_")[0],
+            "total_tokens": len(all_words),
+            "clitic_count": len(clitics),
+            "clitics_found": ", ".join(clitics)
+        })
 
 # Save results
 out_file = os.path.join(output_path, "clitic_results.csv")
