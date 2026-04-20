@@ -3,11 +3,6 @@ import config
 import subprocess
 
 def run_pipeline():
-    """
-    Run lexical diversity (main.py) and clitic counter (clitic_counter.py)
-    on the test file corresponding to the configured language.
-    """
-
     lang = config.LANGUAGE
     data_path = config.TXT_PATH
 
@@ -23,16 +18,8 @@ def run_pipeline():
         raise FileNotFoundError(f"Expected test file not found: {file_path}")
 
     print(f"[INFO] Running pipeline on {file_path} with language='{lang}'")
-
-    # Run lexical diversity analysis
-    print("[INFO] Running main.py ...")
-    subprocess.run(["python", "main.py"], check=True)
-
-    # Run clitic counter
-    print("[INFO] Running clitic_counter.py ...")
-    subprocess.run(["python", "clitic_counter.py"], check=True)
-
-    # Show where results are saved
+    subprocess.run(["python3", "main.py"], check=True)
+    subprocess.run(["python3", "clitic_counter.py"], check=True)
     print(f"[INFO] Results saved in: {config.OUTPUT_PATH}")
 
 if __name__ == "__main__":
